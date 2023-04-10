@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 
 """ Module 'project-1-super-cashier-pacmann' berfungsi untuk membuat input data belanjaan.
 Function tambah_barang() berfungsi untuk menambah nama barang, harga barang dan jumlah barang.

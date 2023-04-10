@@ -1,5 +1,5 @@
 # Project Pacmann 1 : Super Cashier
-Ini adalah project membuat sistem kasir self-service, di mana customer bisa memasukkan nama, jumlah dan harga barang yang akan dibeli.
+Project Pacmann ini adalah project membuat sistem kasir self-service, di mana customer bisa memasukkan nama, jumlah dan harga barang yang akan dibeli.
 
 # Tujuan Project
 1. Agar customer yang berada di kota lain bisa membeli barang dari supermarket tersebut.
